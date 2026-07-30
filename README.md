@@ -86,11 +86,11 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/Sumeyyye3">
 <img src="https://img.shields.io/badge/LinkedIn-%23FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:sumeyye.dogannn3@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-%23FF8FAB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
