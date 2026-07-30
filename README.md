@@ -15,9 +15,6 @@
 ![C++](https://img.shields.io/badge/C++-%23FF69B4?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23FFD1DC?style=for-the-badge&logo=python&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-%23C77DFF?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23FFB7C5?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ---
 
 # 🌷 Web Geliştirme
@@ -60,7 +57,7 @@
 
 ---
 
-<p align="center", color="pink">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
