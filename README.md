@@ -1,48 +1,17 @@
-# 🌸 Hi there, I'm Sümeyye! 👋✨
+# 🌸 Merhaba, ben Sümeyye! 👋✨
 
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVtZ3F5cGx4a2N6a3B4c3V5d3l4a2F2N3V6Z2J6Y3R6d2J3ZzZ1YyZ3/given/girl-coding.gif" />
 
-🎓 **Computer Engineering Student** @ Düzce University  
-💻 **Main Student** @ 42 Kocaeli  
-🌸 Building things with code, curiosity, and a little bit of coffee ☕  
-💡 Exploring **Software Engineering**, **Artificial Intelligence**, **Embedded Systems**, and **Web Development**
+🎓 **Bilgisayar Mühendisliği Öğrencisi** @ Düzce Üniversitesi  
+💻 **Ana Eğitim Öğrencisi** @ 42 Kocaeli  
+
+🌸 Yazılım geliştirmeyi, yeni teknolojiler keşfetmeyi ve fikirleri projelere dönüştürmeyi seviyorum.
 
 <br>
 
-> 🌷 "Turning ideas into code, bugs into lessons, and coffee into commits."
-
 ---
 
-## 🌸 About Me
-
-Hi! I'm **Sümeyye**, a Computer Engineering student who loves creating, learning, and breaking things (then fixing them 😄).
-
-Currently:
-
-- 🎓 Studying **Computer Engineering**
-- 🚀 Continuing my intensive peer-to-peer coding journey at **42 Kocaeli**
-- 🧠 Improving my skills in **algorithms, system programming, and software architecture**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🌐 Creating modern and interactive web experiences
-- 🛠️ Building projects that combine software and real-world problems
-
-💗 My current mission:
-
-```
-while(!success)
-{
-    learn();
-    code();
-    debug();
-    improve();
-}
-```
-
----
-
-# 🎀 Tech Stack & Tools
-
-## 💻 Programming Languages
+# 💻 Programlama Dilleri
 
 ![C](https://img.shields.io/badge/C-%23FFB6C1?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%23FF69B4?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -53,7 +22,7 @@ while(!success)
 
 ---
 
-## 🌷 Frontend & Web
+# 🌷 Web Geliştirme
 
 ![React](https://img.shields.io/badge/React-%23FF69B4?style=for-the-badge&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23FF8FAB?style=for-the-badge&logo=html5&logoColor=white)
@@ -61,7 +30,7 @@ while(!success)
 
 ---
 
-## 🧰 Tools & Technologies
+# 🛠️ Araçlar
 
 ![Git](https://img.shields.io/badge/Git-%23F78FB3?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FFB6C1?style=for-the-badge&logo=linux&logoColor=white)
@@ -69,18 +38,19 @@ while(!success)
 
 ---
 
-# 🌸 Currently Learning
+# 🌸 Şu Anda Öğrendiklerim
 
-✨ Low-level programming  
-✨ Algorithms & Data Structures  
-✨ Artificial Intelligence  
-✨ Embedded Systems  
-✨ Backend Development  
-✨ Clean Code & Software Architecture  
+✨ Düşük seviye programlama  
+✨ Algoritmalar ve veri yapıları  
+✨ Yapay zeka uygulamaları  
+✨ Gömülü sistemler  
+✨ Backend geliştirme  
+✨ Temiz kod prensipleri  
+✨ Yazılım mimarileri  
 
 ---
 
-# 🎀 GitHub Stats
+# 🎀 GitHub İstatistiklerim
 
 <p align="center">
 
@@ -92,37 +62,38 @@ while(!success)
 
 ---
 
-# 🌷 My Coding Mood
+# 🐍🌸 Kod Yılanım
 
-```text
-🌸 Monday:
-"I will write clean code."
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
-🌸 Tuesday:
-"Why is this bug here?"
+<p align="center">
 
-🌸 Wednesday:
-"I fixed the bug!"
+💗 Commitlerimi takip eden küçük pembe yılanım!  
+<br>
+✨ Her kare yeni bir kod macerası ✨
 
-🌸 Thursday:
-"I created three more bugs..."
-
-🌸 Friday:
-"Git commit and pray 🙏"
-```
+</p>
 
 ---
 
-# 🦋 Beyond Coding
+# 💗 Kod Dışı Ben
 
-🏊‍♀️ Swimming when I'm away from my keyboard  
-📚 Reading books and discovering new ideas  
-🎮 Playing games for inspiration  
-☕ Drinking coffee while debugging impossible errors  
+🏊‍♀️ Yüzmeyi seviyorum.  
+📚 Yeni bilgiler öğrenmek ve kitap okumak hoşuma gidiyor.  
+🎮 Oyun oynayarak farklı dünyalar keşfediyorum.  
+☕ Kahve eşliğinde hata ayıklıyorum.  
 
 ---
 
-# 💗 Connect With Me
+# 🌸 Dil Seviyesi
+
+🗣️ İngilizce: **B2 (Upper-Intermediate)**
+
+---
+
+# 💌 Benimle İletişime Geç
 
 <p align="left">
 
@@ -140,9 +111,13 @@ while(!success)
 
 <p align="center">
 
-🌸 Thanks for visiting my profile! 🌸
+🌸 Profilime uğradığın için teşekkürler! 🌸
 
-✨ Keep coding, keep learning, keep growing ✨
+✨ Öğrenmeye devam et, üretmeye devam et ✨
+
+💗 Happy Coding 💗
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Sumeyyye3&color=ff69b4&style=for-the-badge" />
 
