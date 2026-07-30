@@ -5,8 +5,6 @@
 🎓 **Bilgisayar Mühendisliği Öğrencisi** @ Düzce Üniversitesi  
 💻 **Ana Eğitim Öğrencisi** @ 42 Kocaeli  
 
-🌸 Yazılım geliştirmeyi, yeni teknolojiler keşfetmeyi ve fikirleri projelere dönüştürmeyi seviyorum.
-
 <br>
 
 ---
@@ -62,28 +60,19 @@
 
 ---
 
-# 🐍🌸 Kod Yılanım
-
-<p align="center">
+<p align="center", color="pink">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
 
-💗 Commitlerimi takip eden küçük pembe yılanım!  
 <br>
-✨ Her kare yeni bir kod macerası ✨
 
 </p>
 
 ---
 
-# 💗 Kod Dışı Ben
-
-🏊‍♀️ Yüzmeyi seviyorum.  
-📚 Yeni bilgiler öğrenmek ve kitap okumak hoşuma gidiyor.  
-🎮 Oyun oynayarak farklı dünyalar keşfediyorum.  
-☕ Kahve eşliğinde hata ayıklıyorum.  
+ 
 
 ---
 
