@@ -3,6 +3,7 @@
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVtZ3F5cGx4a2N6a3B4c3V5d3l4a2F2N3V6Z2J6Y3R6d2J3ZzZ1YyZ3/given/girl-coding.gif" />
 
 🎓 **Bilgisayar Mühendisliği Öğrencisi** @ Düzce Üniversitesi  
+🎓 **Elektrik Elektronik Mühendisliği Öğrencisi (ÇAP)** @ Düzce Üniversitesi  
 💻 **Ana Eğitim Öğrencisi** @ 42 Kocaeli  
 
 <br>
@@ -39,6 +40,7 @@
 ✨ Algoritmalar ve veri yapıları  
 ✨ Yapay zeka uygulamaları  
 ✨ Gömülü sistemler  
+✨ Firmware Yazılımlae  
 ✨ Backend geliştirme  
 ✨ Temiz kod prensipleri  
 ✨ Yazılım mimarileri  
